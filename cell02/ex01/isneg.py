@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = int(input("pls enter number:"))
 if number > 0 :
     print("This number is postive")
