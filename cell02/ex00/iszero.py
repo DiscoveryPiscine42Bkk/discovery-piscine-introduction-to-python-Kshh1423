@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #enter number "0" and "non zero numbers"
 number = int(input("pls enter the number:"))
 if number == 0 :
